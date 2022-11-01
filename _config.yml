@@ -1,5 +1,6 @@
 #theme: jekyll-theme-minimal
-remote_theme: poole/hyde
+#remote_theme: poole/hyde
+remote_theme: mmistakes/so-simple-theme
 
 title: Ying Li
 description: Hi
