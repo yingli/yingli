@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: Ying Li
 description: Data Science Life Cycle
-logo: https://github.com/yingli/yingli/blob/main/assets/img/yingli.png
+logo: https://media-exp1.licdn.com/dms/image/C5103AQFuI3dWnAtiSw/profile-displayphoto-shrink_400_400/0/1561704537561?e=1672876800&v=beta&t=E_jYcDXf0PL75V6aQXmL6kbuShClB3YquUp7b6aO5L4
+#https://github.com/yingli/yingli/blob/main/assets/img/yingli.png
 show_downloads: false
 
 
@@ -12,7 +13,7 @@ permalink:        pretty
 # Setup
 tagline:          'DSLC'
 url:              "http://yingli.github.io"
-baseurl:          "/"
+baseurl:          "/yingli"
 
 
 paginate:         5
