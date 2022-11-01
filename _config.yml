@@ -12,8 +12,8 @@ permalink:        pretty
 
 # Setup
 tagline:          'DSLC'
-url:              "http://yingli.github.io"
-baseurl:          "/yingli"
+#url:              "http://yingli.github.io"
+#baseurl:          "/yingli"
 
 
 paginate:         5
