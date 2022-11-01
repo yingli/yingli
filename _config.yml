@@ -1,0 +1,25 @@
+theme: jekyll-theme-minimal
+
+title: Ying Li
+description: Hi
+
+# Dependencies
+
+# Permalinks
+permalink:        pretty
+
+
+# Setup
+tagline:          'hello'
+description:      'DSLC' 
+url:              "http://yingli.github.io"
+baseurl:          "/"
+
+
+paginate:         5
+
+# Custom vars
+version:          0.0.0
+
+github:
+  repo:           https://github.com/yingli/yingli
