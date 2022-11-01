@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-
 title: Ying Li
-description: Portfolio
+description: Data Science Life Cycle
+logo: https://github.com/yingli/yingli/blob/main/assets/img/yingli.png
+show_downloads: false
 
-# Dependencies
 
 # Permalinks
 permalink:        pretty
