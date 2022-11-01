@@ -1,9 +1,9 @@
-remote_theme: pages-themes/merlot@v0.2.0
+#remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: poole/hyde
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 #theme: jekyll-theme-slate
-#remote_theme: poole/hyde
 #remote_theme: mmistakes/so-simple-theme
 
 title: Ying Li
